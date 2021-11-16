@@ -1,4 +1,4 @@
-/*1. Create tables for the above list below:
+/*1. Create tables for the data listed below:
 users
 codekata
 attendance
